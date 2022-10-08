@@ -18,7 +18,7 @@ I use Microsoft VS Code for editor.
     - Controllers
       - Calculator.java
       - LogicOps.java
-      - ~~Temperature.java~~ <-- *was going to add temperature meassures unit converter, but abandoned it due to dateline.. only had about two days to write this (lazy me, for 'forgetting' it :P)
+      - ~~Temperature.java~~ <-- *was going to add temperature meassures unit converter, but abandoned it due to dateline.. only had about two days to write this (lazy me, for 'forgetting' it :P)*
   - lib
       - flatlaf-2.5.jar      <-- [*Formdev's FlatDarkLaf library*](https://www.formdev.com/flatlaf/#download)
   - bin                      <-- *contains compiler generated binary files*
