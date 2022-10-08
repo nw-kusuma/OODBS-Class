@@ -22,11 +22,15 @@ I use Microsoft VS Code for editor.
   - lib
       - flatlaf-2.5.jar      <-- Formdev's FlatDarkLaf library
   - bin                      <-- compiler generated binary files
+  - screeshot                <-- screenshot image files of the app
+
+### Image files:
+![standard-calculator-a.png](screenshot/standard-calculator-a.png) ![standard-calculator-b.png](screenshot/standard-calculator-b.png) ![logical-calculator-a.png](screenshot/logical-calculator-a.png) ![logical-calculator-b.png](screenshot/logical-calculator-b.png)
 
 ---
 # Thanks to Ms. Dita Nurmadewi for the lectures
 
-![UB banner](assets/images/Logo_UB_Tengah.png)
+![UB banner](https://github.com/nw-kusuma/Mobile-Programming-Class/blob/main/mp_class_flutterdemo/assets/images/Logo_UB_Tengah.png)
 
 ---
 ---
