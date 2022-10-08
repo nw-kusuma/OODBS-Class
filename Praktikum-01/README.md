@@ -18,11 +18,11 @@ I use Microsoft VS Code for editor.
     - Controllers
       - Calculator.java
       - LogicOps.java
-      - ~~Temperature.java~~ <-- (*was going to add temperature meassures unit converter, but abandoned it due to dateline*)
+      - ~~Temperature.java~~ <-- *was going to add temperature meassures unit converter, but abandoned it due to dateline.. only had about two days to write this (lazy me, for 'forgetting' it :P)
   - lib
-      - flatlaf-2.5.jar      <-- Formdev's FlatDarkLaf library
-  - bin                      <-- contains compiler generated binary files
-  - screeshot                <-- contains screenshot image files of the app (as shown below)
+      - flatlaf-2.5.jar      <-- [*Formdev's FlatDarkLaf library*](https://www.formdev.com/flatlaf/#download)
+  - bin                      <-- *contains compiler generated binary files*
+  - screeshot                <-- *contains screenshot image files of the app (as shown below)*
 
 ### Image files:
 ![standard-calculator-a.png](screenshot/standard-calculator-a.png) ![standard-calculator-b.png](screenshot/standard-calculator-b.png) ![logical-calculator-a.png](screenshot/logical-calculator-a.png) ![logical-calculator-b.png](screenshot/logical-calculator-b.png)
