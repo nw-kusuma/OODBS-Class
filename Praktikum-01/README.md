@@ -35,7 +35,7 @@ I use Microsoft VS Code for editor.
 ---
 ---
 
-## **Official auto-generated texts on Getting Started with Java on VS Code**
+## **Here comes the auto-generated texts on _Getting Started_ with Java on VS Code**
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
