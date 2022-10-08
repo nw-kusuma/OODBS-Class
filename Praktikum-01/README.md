@@ -21,8 +21,8 @@ I use Microsoft VS Code for editor.
       - ~~Temperature.java~~ <-- (*was going to add temperature meassures unit converter, but abandoned it due to dateline*)
   - lib
       - flatlaf-2.5.jar      <-- Formdev's FlatDarkLaf library
-  - bin                      <-- compiler generated binary files
-  - screeshot                <-- screenshot image files of the app
+  - bin                      <-- contains compiler generated binary files
+  - screeshot                <-- contains screenshot image files of the app (as shown below)
 
 ### Image files:
 ![standard-calculator-a.png](screenshot/standard-calculator-a.png) ![standard-calculator-b.png](screenshot/standard-calculator-b.png) ![logical-calculator-a.png](screenshot/logical-calculator-a.png) ![logical-calculator-b.png](screenshot/logical-calculator-b.png)
