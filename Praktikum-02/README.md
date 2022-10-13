@@ -20,11 +20,12 @@ As always, I use **Microsoft VS Code** for editor.
 ### Source files:
   - src
     - App.java               <-- *main file which hold the JTabbedPane for the tabs*
-    - Controllers
-      - Tab01Panel.java      <-- *for the first tab*
-      - Tab02Panel.java      <-- *for the second tab*
-      - Tab03Panel.java      <-- *for the third tab*
-      - Tab04Panel.java      <-- *for the fourth tab*
+    - controllers            <-- *package for the tabs*
+      - Tab01Panel.java
+      - Tab02Panel.java
+      - Tab03Panel.java
+      - Tab04Panel.java
+    - images                 <-- *contains image files of the book's cover used in fourth tab*
   - lib
       - flatlaf-2.5.jar      <-- [*Formdev's FlatDarkLaf library*](https://www.formdev.com/flatlaf/#download) *for the dark flat look-and-feel*
   - bin                      <-- *contains compiler generated binary files*
