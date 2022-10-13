@@ -10,8 +10,8 @@ Just a Java exercise demo project for **OODBS** class at **Bakrie University**.
     - The *third* tab also checks whether the given number(s) is an even or odd number.
     - The *fourth* tab show case the usage of integer number in *switch-case*.
 - Through them all, it demonstrate a way of using layout, such as the border, grid, grid bag, box, and flow layout.
-- It demonstrate the some way of implementing an *event listener* (action, item, and key events) as well.
-- And it is also demonstrate a way of loading/displaying image using java awt and javax imageio.
+- And it also demonstrate some way of implementing an *event listener* (action, item, and key events).
+- As well as demonstrating a way of loading/displaying image using java awt and javax imageio.
 
 As always, I use **Microsoft VS Code** for editor.
 
