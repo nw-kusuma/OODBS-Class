@@ -31,6 +31,7 @@ As always, I use **Microsoft VS Code** for editor.
   - screeshot                <-- *contains screenshot image files of the app (as shown below)*
 
 ### Image files:
+<img src="screenshot/tab-01a.png" width="150" height="80">
 ![tab-01a.png](screenshot/tab-01a.png) ![tab-01b.png](screenshot/tab-01b.png) ![tab-02a.png](screenshot/tab-02a.png) ![tab-02b.png](screenshot/tab-02b.png) ![tab-03a.png](screenshot/tab-03a.png) ![tab-03b.png](screenshot/tab-03b.png) ![tab-04a.png](screenshot/tab-04a.png) ![tab-04b.png](screenshot/tab-04b.png) 
 
 ---
