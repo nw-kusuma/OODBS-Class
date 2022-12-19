@@ -32,7 +32,7 @@ As always, I use **Microsoft VS Code** for editor.
   - lib
       - flatlaf-2.5.jar      <-- [*Formdev's FlatDarkLaf library*](https://www.formdev.com/flatlaf/#download) *for the dark flat look-and-feel*
   - bin                 <-- *contains compiler generated binary files*
-  - images              <-- *contains image files of the book's cover used in fourth tab*
+  - images
     - icons             <-- *contains icon image files used in the app menus*
     - thumbs            <-- *contains thumbnail-sized image files of book's covers*
     - screenshots        <-- *contains screenshot image files of the app (as shown below)*
