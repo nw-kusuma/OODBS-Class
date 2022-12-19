@@ -24,7 +24,7 @@ I use **Microsoft VS Code** for editor.
       - ImagePanel.java <-- *a custom JPanel extension class that allows to have image as its background*
     - etc
       - Constants.java  <-- *a final class that contains most used colors and fonts styles across classes*
-      - Modules.java    <-- *another final class that holds the most used routines across the other classes*
+      - Routines.java    <-- *another final class that holds the most used routines across the other classes*
   - lib
       - flatlaf-2.5.jar      <-- [*Formdev's FlatDarkLaf library*](https://www.formdev.com/flatlaf/#download)
   - bin                      <-- *contains compiler generated binary files*
