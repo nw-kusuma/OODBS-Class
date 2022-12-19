@@ -1,5 +1,5 @@
 ## **Project's Name:**
-# Praktikum-02
+# OODBS-Praktikum-02
 
 ## **Description**
 Just a Java exercise demo project for **OODBS** class at **Bakrie University**.
@@ -9,9 +9,8 @@ Just a Java exercise demo project for **OODBS** class at **Bakrie University**.
     - The *second* tab checks whether the given number(s) is a positive, negative, or a zero.
     - The *third* tab also checks whether the given number(s) is an even or odd number.
     - The *fourth* tab show case the usage of integer number in *switch-case*.
-- Through them all, it demonstrate a way of using layout, such as the border, grid, grid bag, box, and flow layout.
-- And it also demonstrate some way of implementing an *event listener* (action, item, and key events).
-- As well as demonstrating a way of loading/displaying image using java awt and javax imageio.
+- Through them all, it demonstrate a way of using layout, and some way of implementing an *event listener* (action, item, and key events).
+- As well as demonstrating a way of creating *model class of data objects* (!? - *not really sure if that's what its called*).
 
 As always, I use **Microsoft VS Code** for editor.
 
@@ -19,34 +18,37 @@ As always, I use **Microsoft VS Code** for editor.
 ## **File structure:**
 ### Source files:
   - src
-    - App.java               <-- *main file which hold the JTabbedPane for the tabs*
-    - controllers            <-- *package for the tabs*
+    - Main.java         <-- *main file which hold the JTabbedPane for the tabs*
+    - controllers       <-- *package for the tabs*
       - Tab01Panel.java
       - Tab02Panel.java
       - Tab03Panel.java
       - Tab04Panel.java
-    - images                 <-- *contains image files of the book's cover used in fourth tab*
+    - etc
+      - Constants.java  <-- *a final class that contains most used colors and fonts styles across classes*
+      - Modules.java    <-- *another final class that holds the most used routines across the other classes*
+    - models
+      - Book.java <-- *a class that holds the book data structures*
   - lib
       - flatlaf-2.5.jar      <-- [*Formdev's FlatDarkLaf library*](https://www.formdev.com/flatlaf/#download) *for the dark flat look-and-feel*
-  - bin                      <-- *contains compiler generated binary files*
-  - screeshot                <-- *contains screenshot image files of the app (as shown below)*
+  - bin                 <-- *contains compiler generated binary files*
+  - images              <-- *contains image files of the book's cover used in fourth tab*
+    - icons             <-- *contains icon image files used in the app menus*
+    - thumbs            <-- *contains thumbnail-sized image files of book's covers*
+    - screenshots        <-- *contains screenshot image files of the app (as shown below)*
 
-### Image files:
+### **Screenshots:**
 <p float="left">
-    <img src="screenshot/tab-01a.png" width="400">
-    <img src="screenshot/tab-01b.png" width="400">
+    <img src="images/screenshots/tab-01a.png" width="200">
+    <img src="images/screenshots/tab-01b.png" width="200">
+    <img src="images/screenshots/tab-02a.png" width="200">
+    <img src="images/screenshots/tab-02b.png" width="200">
 </p>
 <p float="left">
-    <img src="screenshot/tab-02a.png" width="400">
-    <img src="screenshot/tab-02b.png" width="400">
-</p>
-<p float="left">
-    <img src="screenshot/tab-03a.png" width="400">
-    <img src="screenshot/tab-03b.png" width="400">
-</p>
-<p float="left">
-    <img src="screenshot/tab-04a.png" width="400">
-    <img src="screenshot/tab-04b.png" width="400">
+    <img src="images/screenshots/tab-03a.png" width="200">
+    <img src="images/screenshots/tab-03b.png" width="200">
+    <img src="images/screenshots/tab-04a.png" width="200">
+    <img src="images/screenshots/tab-04b.png" width="200">
 </p>
 
 ---
